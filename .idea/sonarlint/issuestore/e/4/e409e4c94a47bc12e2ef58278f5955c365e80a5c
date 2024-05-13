@@ -1,0 +1,10 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çŞã
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í÷ÿ†ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìÌÁùÿÿÿÿ
+B
+java:S3416",Update this logger to use "LoginPage.class".(¼¯Ÿ¢
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(ñèìúÿÿÿÿ
+L
+java:S2696!"6Make the enclosing method "static" or remove this set.(–­†´

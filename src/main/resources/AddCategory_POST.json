@@ -1,0 +1,11 @@
+{
+  "type": "incident",
+  "category": "{catName}",
+  "level1ApprovalRequired": true,
+  "level1ApprovalRole": "L1",
+  "level2ApprovalRequired": true,
+  "level2ApprovalRole": "L2",
+  "active": true,
+  "departmentId": "639319b657fd455ec864a8d6",
+  "departmentName": "IT"
+}

@@ -1,0 +1,8 @@
+{
+  "categoryId": "{uid}",
+  "subCategories": [
+    "API3",
+    "API4"
+  ],
+  "active": true
+}

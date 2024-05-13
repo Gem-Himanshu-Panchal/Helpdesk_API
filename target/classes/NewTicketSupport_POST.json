@@ -1,0 +1,20 @@
+{
+  "subject": "test",
+  "departmentId": "639319b657fd455ec864a8d6",
+  "departmentName": "IT",
+  "type": "incident",
+  "appName": "Helpdesk(Internal)",
+  "appId": "645206c946f6ab7dd074d4fa",
+  "description": "<p>test</p>",
+  "documents": [],
+  "impact": "low",
+  "urgency": "low",
+  "channel": "Phone Call",
+  "caller": {
+    "callerName": "Sakshi Garg",
+    "callerId": "GSI G 618"
+  },
+  "status": "open",
+  "category": "Network Infrastructure",
+  "subCategory": "Switch"
+}

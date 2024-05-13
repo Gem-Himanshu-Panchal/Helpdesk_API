@@ -1,0 +1,152 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+CWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(Õ¶¯M
+MWeb:ImgWithoutAltCheck–"%Add an "alt" attribute to this image.(”Ñ–øüÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheck´"Remove this commented out code.(º’Îí
+OWeb:AvoidCommentedOutCodeCheckÀ"Remove this commented out code.(Ñ´Å‚ûÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheckİ"Remove this commented out code.(æÙ°Û
+OWeb:AvoidCommentedOutCodeCheck†"Remove this commented out code.(¤€‰øÿÿÿÿ
+xjavascript:S2703™"[Add the "let", "const" or "var" keyword to this declaration of "theme" to make it explicit.(êàÌ–
+„javascript:S2703š"bAdd the "let", "const" or "var" keyword to this declaration of "gempypThemes" to make it explicit.(‹¦Õïıÿÿÿÿ
+javascript:S2703Ÿ"bAdd the "let", "const" or "var" keyword to this declaration of "gemjarThemes" to make it explicit.(¦Œ©Š
+;javascript:S125¥"Remove this commented out code.(ŸÇ²Æ
+2javascript:S108«"Empty block statement.(å¥‡
+ijavascript:S4138Ê"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(³À—£
+vjavascript:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(äÎÑîüÿÿÿÿ
+tjavascript:S2392Ô"WConsider moving declaration of 'j' as it is referenced outside current binding context.(¬Íº™
+|javascript:S2392Õ"ZConsider moving declaration of 'keys' as it is referenced outside current binding context.(Çàşüÿÿÿÿ
+Yjavascript:S1481Ö"7Remove the declaration of the unused 'newkey' variable.(€´ü øÿÿÿÿ
+yjavascript:S2392Ö"WConsider moving declaration of 'i' as it is referenced outside current binding context.(€´ü øÿÿÿÿ
+ijavascript:S4138æ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(øé…Õ
+4javascript:S2814æ"'i' is already defined.(øé…Õ
+<javascript:S2814ç"'keys' is already defined.(—°ÆÓşÿÿÿÿ
+njavascript:S4138è"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Í÷òËúÿÿÿÿ
+9javascript:S2814è"'j' is already defined.(Í÷òËúÿÿÿÿ
+;javascript:S125ò"Remove this commented out code.(ÛÇ•À
+2javascript:S108™"Empty block statement.(å¥‡
+pjavascript:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 71 to the 15 allowed.(İü“
+hjavascript:S4138©"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(öÛ²>
+sjavascript:S2392©"WConsider moving declaration of 'i' as it is referenced outside current binding context.(öÛ²>
+ijavascript:S4138Å"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Õ¡Æ
+4javascript:S2814Å"'i' is already defined.(Õ¡Æ
+3javascript:S2814ß"'i' is already defined.(öÛ²>
+|javascript:S2703â"ZAdd the "let", "const" or "var" keyword to this declaration of "trow" to make it explicit.(²ô»Åÿÿÿÿÿ
+ijavascript:S4138ç"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(æ­Ö
+@javascript:S125÷"Remove this commented out code.(Í¦ÕÏıÿÿÿÿ
+|javascript:S2392ø"ZConsider moving declaration of 'link' as it is referenced outside current binding context.(Êúøùÿÿÿÿ
+@javascript:S125Š"Remove this commented out code.(¾³Ÿüÿÿÿÿ
+;javascript:S125"Remove this commented out code.(ö‡üù
+<javascript:S2814œ"'link' is already defined.(¼ªãÅûÿÿÿÿ
+;javascript:S125¤"Remove this commented out code.(´ì±œ
+|javascript:S2703»"_Add the "let", "const" or "var" keyword to this declaration of "trowAccor" to make it explicit.(İøŸ€
+}javascript:S2703¼"aAdd the "let", "const" or "var" keyword to this declaration of "tcellAccord" to make it explicit.(ñŸÆt
+;javascript:S125Û"Remove this commented out code.(ÊÍ»…
+qjavascript:S3776â"TRefactor this function to reduce its Cognitive Complexity from 59 to the 15 allowed.(ë³ˆü
+hjavascript:S4138æ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(öÛ²>
+sjavascript:S2392æ"WConsider moving declaration of 'i' as it is referenced outside current binding context.(öÛ²>
+@javascript:S125ø"Remove this commented out code.(×Èş†ûÿÿÿÿ
+ijavascript:S4138ş"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Õ¡Æ
+4javascript:S2814ş"'i' is already defined.(Õ¡Æ
+3javascript:S2814‹"'i' is already defined.(öÛ²>
+ijavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(æ­Ö
+=javascript:S2814§"'index' is already defined.(¶Ş“Üüÿÿÿÿ
+}javascript:S2392§"[Consider moving declaration of 'index' as it is referenced outside current binding context.(¶Ş“Üüÿÿÿÿ
+Ujavascript:S1854§"3Remove this useless assignment to variable "index".(¶Ş“Üüÿÿÿÿ
+@javascript:S125¨"Remove this commented out code.(·ºæÑøÿÿÿÿ
+;javascript:S125«"Remove this commented out code.(³¥ŸË
+Vjavascript:S1481Ã"4Remove the declaration of the unused 'img' variable.(ÉÜÖæüÿÿÿÿ
+Sjavascript:S1854Ã"1Remove this useless assignment to variable "img".(ÉÜÖæüÿÿÿÿ
+:javascript:S125Í"Remove this commented out code.(èµĞ!
+@javascript:S125Ó"Remove this commented out code.(­”Ô†øÿÿÿÿ
+vjavascript:S3776‚	"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Å»¦òøÿÿÿÿ
+njavascript:S4138“	"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Üã€úÿÿÿÿ
+€javascript:S2392“	"^Consider moving declaration of 'colIndex' as it is referenced outside current binding context.(Üã€úÿÿÿÿ
+{javascript:S2392”	"YConsider moving declaration of 'val' as it is referenced outside current binding context.(ë¬Ìšıÿÿÿÿ
+Sjavascript:S1854”	"1Remove this useless assignment to variable "val".(ë¬Ìšıÿÿÿÿ
+@javascript:S2814	"'colIndex' is already defined.(Üã€úÿÿÿÿ
+;javascript:S2814	"'val' is already defined.(¬ØŞ·úÿÿÿÿ
+njavascript:S4138ã	"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Üã€úÿÿÿÿ
+€javascript:S2392ã	"^Consider moving declaration of 'colIndex' as it is referenced outside current binding context.(Üã€úÿÿÿÿ
+{javascript:S2392ä	"YConsider moving declaration of 'val' as it is referenced outside current binding context.(İ±¾áÿÿÿÿÿ
+njavascript:S4138î	"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Üã€úÿÿÿÿ
+@javascript:S2814î	"'colIndex' is already defined.(Üã€úÿÿÿÿ
+;javascript:S2814ï	"'val' is already defined.(İ±¾áÿÿÿÿÿ
+ijavascript:S4138ƒ
+"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(…É³
+njavascript:S4138¤
+"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Üã€úÿÿÿÿ
+€javascript:S2392¤
+"^Consider moving declaration of 'colIndex' as it is referenced outside current binding context.(Üã€úÿÿÿÿ
+{javascript:S2392¥
+"YConsider moving declaration of 'val' as it is referenced outside current binding context.(ë¬Ìšıÿÿÿÿ
+njavascript:S4138¬
+"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Üã€úÿÿÿÿ
+@javascript:S2814¬
+"'colIndex' is already defined.(Üã€úÿÿÿÿ
+6javascript:S2814­
+"'val' is already defined.(ãœÄ¬
+njavascript:S4138Ú
+"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¨¤ÖÂüÿÿÿÿ
+;javascript:S125ó
+"Remove this commented out code.(µ•Ï™
+vjavascript:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ãÎ¶™úÿÿÿÿ
+Wjavascript:S1481×";Remove the declaration of the unused 'cardValues' variable.(ÜÉù]
+Tjavascript:S1854×"8Remove this useless assignment to variable "cardValues".(ÜÉù]
+njavascript:S4138Ú"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¨¤ÖÂüÿÿÿÿ
+;javascript:S125ô"Remove this commented out code.(µ•Ï™
+vjavascript:S2392Ä"YConsider moving declaration of 'ans' as it is referenced outside current binding context.(ñ¿½ï
+6javascript:S2814Ê"'ans' is already defined.(İ§‘¿
+njavascript:S4138İ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ıÚ‹Ïÿÿÿÿÿ
+rjavascript:S3776å"URefactor this function to reduce its Cognitive Complexity from 155 to the 15 allowed.(¥ä©å
+{javascript:S2392ø"YConsider moving declaration of 'tab' as it is referenced outside current binding context.(Äã±ùúÿÿÿÿ
+yjavascript:S2392ú"WConsider moving declaration of 'i' as it is referenced outside current binding context.(”ğı»øÿÿÿÿ
+tjavascript:S2392û"WConsider moving declaration of 'j' as it is referenced outside current binding context.(ÓØœÛ
+wjavascript:S2392‘"ZConsider moving declaration of 'swap' as it is referenced outside current binding context.(ı¨¢
+9javascript:S2814˜"'i' is already defined.(”ğı»øÿÿÿÿ
+4javascript:S2814™"'j' is already defined.(ÓØœÛ
+7javascript:S2814°"'swap' is already defined.(ı¨¢
+Œjavascript:S2392¹"jConsider moving declaration of 'testcaseDetailsTable' as it is referenced outside current binding context.(×æ„°üÿÿÿÿ
+vjavascript:S2392¼"ZConsider moving declaration of 'icon' as it is referenced outside current binding context.(“ÄÒ\
+{javascript:S2392Ç"^Consider moving declaration of 'targetId' as it is referenced outside current binding context.(Ş­Àø
+@javascript:S125Í"Remove this commented out code.(îÍïøÿÿÿÿ
+;javascript:S2814Ğ"'targetId' is already defined.(âÕğ€
+‡javascript:S2392Ô"eConsider moving declaration of '$filterableRows' as it is referenced outside current binding context.(µ‘Éèıÿÿÿÿ
+bjavascript:S1481Ô"@Remove the declaration of the unused '$filterableRows' variable.(µ‘Éèıÿÿÿÿ
+_javascript:S1854Ô"=Remove this useless assignment to variable "$filterableRows".(µ‘Éèıÿÿÿÿ
+;javascript:S2814ç"'tab' is already defined.(Äã±ùúÿÿÿÿ
+;javascript:S125ê"Remove this commented out code.(ƒ¶‹’
+9javascript:S2814ë"'i' is already defined.(”ğı»øÿÿÿÿ
+4javascript:S2814ì"'j' is already defined.(ÓØœÛ
+7javascript:S2814‚"'swap' is already defined.(ı¨¢
+9javascript:S2814‰"'i' is already defined.(”ğı»øÿÿÿÿ
+4javascript:S2814Š"'j' is already defined.(ÓØœÛ
+7javascript:S2814 "'swap' is already defined.(ı¨¢
+Ljavascript:S2814©"*'testcaseDetailsTable' is already defined.(×æ„°üÿÿÿÿ
+6javascript:S2814­"'icon' is already defined.(“ÄÒ\
+;javascript:S2814¹"'targetId' is already defined.(Ş­Àø
+@javascript:S125¿"Remove this commented out code.(îÍïøÿÿÿÿ
+;javascript:S2814Â"'targetId' is already defined.(âÕğ€
+Gjavascript:S2814Æ"%'$filterableRows' is already defined.(µ‘Éèıÿÿÿÿ
+bjavascript:S1481Æ"@Remove the declaration of the unused '$filterableRows' variable.(µ‘Éèıÿÿÿÿ
+_javascript:S1854Æ"=Remove this useless assignment to variable "$filterableRows".(µ‘Éèıÿÿÿÿ
+vjavascript:S2703Ï"YAdd the "let", "const" or "var" keyword to this declaration of "row" to make it explicit.(¼¶“ÿ
+njavascript:S4138ë"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(•Ø£Æıÿÿÿÿ
+qjavascript:S3776²"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(³»§
+hjavascript:S4138º"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(öÛ²>
+sjavascript:S2392º"WConsider moving declaration of 'i' as it is referenced outside current binding context.(öÛ²>
+ijavascript:S4138Í"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Õ¡Æ
+4javascript:S2814Í"'i' is already defined.(Õ¡Æ
+hjavascript:S4138Ù"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(öÛ²>
+3javascript:S2814Ù"'i' is already defined.(öÛ²>
+ijavascript:S4138Ş"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(æ­Ö
+@javascript:S125â"Remove this commented out code.(Í¦ÕÏıÿÿÿÿ
+Vjavascript:S1481ÿ"4Remove the declaration of the unused 'img' variable.(ÉÜÖæüÿÿÿÿ
+Sjavascript:S1854ÿ"1Remove this useless assignment to variable "img".(ÉÜÖæüÿÿÿÿ
+:javascript:S125Š"Remove this commented out code.(èµĞ!
+@javascript:S125•"Remove this commented out code.(òÉ¿§şÿÿÿÿ
+;javascript:S125¥"Remove this commented out code.(ù±æó
+7	css:S4656t""Unexpected duplicate "font-weight"(¤îƒØ
+7	css:S4656""Unexpected duplicate "font-weight"(¤îƒØ
+7	css:S4656î"!Unexpected duplicate "background"(ß­€
+A	css:S4649ô"&Unexpected missing generic font family(‰ù©åşÿÿÿÿ

@@ -1,0 +1,11 @@
+{
+  "subject": "test",
+  "type": "request",
+  "category": "Facility",
+  "subCategory": "Chair",
+  "description": "<p>test</p>",
+  "documents": [],
+  "units": {
+    "per person": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "subject": "test",
+  "groupName": "API",
+  "assignmentId": "651e645909dbc6001e765977",
+  "type": "request",
+  "appName": "Helpdesk(Internal)",
+  "appId": "645206c946f6ab7dd074d4fa",
+  "description": "<p>test</p>",
+  "documents": [],
+  "impact": "low",
+  "urgency": "low",
+  "channel": "Phone Call",
+  "caller": {
+    "callerName": "Sakshi Garg",
+    "callerId": "GSI G 618"
+  },
+  "status": "open",
+  "category": "Hardware",
+  "subCategory": "Keyboard",
+  "units": {
+    "per unit": 0
+  }
+}

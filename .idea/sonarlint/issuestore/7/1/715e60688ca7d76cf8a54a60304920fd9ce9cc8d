@@ -1,0 +1,26 @@
+
+l
+java:S1104"QMake token a static final constant or non-public and provide accessors if needed.(¸ºÅ…øÿÿÿÿ
+i
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(™Ãñìÿÿÿÿÿ
+e
+java:S1104"OMake _id a static final constant or non-public and provide accessors if needed.(Ûš¦­
+o
+java:S1104"TMake ticketID a static final constant or non-public and provide accessors if needed.(†Û‡†ýÿÿÿÿ
+p
+java:S1104	"UMake ticketID1 a static final constant or non-public and provide accessors if needed.(Á×¨²ýÿÿÿÿ
+F
+java:S1444"+Make this "public static token" field final(¸ºÅ…øÿÿÿÿ
+C
+java:S1444"(Make this "public static id" field final(™Ãñìÿÿÿÿÿ
+?
+java:S1444")Make this "public static _id" field final(Ûš¦­
+I
+java:S1444".Make this "public static ticketID" field final(†Û‡†ýÿÿÿÿ
+J
+java:S1444	"/Make this "public static ticketID1" field final(Á×¨²ýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÎò­
+d
+java:S3008"NRename this field "_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûš¦­
+U
+java:S1118":Add a private constructor to hide the implicit public one.(³Ÿ™õúÿÿÿÿ
